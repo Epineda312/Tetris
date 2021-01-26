@@ -1,2 +1,2 @@
 # Tetris
-Game of tetris made to play in a web browser.
+Game of tetris written in JavaScript. Designed to be played in a web browser.
